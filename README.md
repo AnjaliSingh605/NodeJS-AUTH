@@ -45,7 +45,7 @@ A production-ready authentication REST API built with Node.js and Express. Featu
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/nodejs-auth-api.git
+git clone https://github.com/AnjaliSingh605/nodejs-auth-api.git
 cd nodejs-auth-api
 ```
 
