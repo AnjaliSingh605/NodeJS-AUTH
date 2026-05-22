@@ -4,7 +4,7 @@ A production-ready authentication REST API built with Node.js and Express. Featu
 
 ## Features
 
-- **User Authentication** – Register and login with JWT tokens (30min expiry)
+- **User Authentication**** – Register and login with JWT tokens (30min expiry)
 - **Password Security** – Bcrypt hashing with salt rounds
 - **Change Password** – Secure password update for logged-in users
 - **Role-Based Access** – User, Admin, and SuperAdmin roles
@@ -82,4 +82,4 @@ API will run on [http://localhost:5000](http://localhost:5000)
 
 ## Author
 
-Anjali Singh
+**Anjali Singh**
